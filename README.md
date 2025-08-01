@@ -12,3 +12,4 @@ Branch 2 uses subnet 129.168.2.0/24
 Simulate a real-world inter-branch office network.
 Practice IP addressing, device configuration, and connectivity tests.
 Demonstrate server-client communication, printing, and basic routing.
+Implement DHCP services
